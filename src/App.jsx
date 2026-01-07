@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import ContactManager from './ContactManagerApplication/ContactManager'
+// import ContactManager from './ContactManagerApplication/ContactManager'
 import Contact from './ContactManagerApplication/Contact'
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";

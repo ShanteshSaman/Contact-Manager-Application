@@ -79,7 +79,7 @@ export default function Contact() {
             id: 2,
             name: 'Jane Smith',
             email: 'jane.smith@example.com',
-            phone: '+1 234 567 8901',
+            phone: '1234567890',
             address: '456 Oak Ave, Los Angeles, CA',
             company: 'Design Studio'
         }
